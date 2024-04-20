@@ -139,7 +139,7 @@
   "DEBUG_LOG_SCRIPT_EVENT_FILTER_BY_PLAYER": "Filtra per giocatore",
   "DEBUG_LOG_SCRIPT_EVENT": "Abilita registrazione eventi script",
   "DEBUG_LOG_TREE_SCRIPT_EVENT": "Registrazione eventi script",
-  "DEBUG_REMOVE_FROM_BAD_SPORT": "Rimuovi da Bad Sport",
+  "DEBUG_REMOVE_FROM_BAD_SPORT": "Rimuovi da cattiva sportivitá",
   "DEBUG_SCRIPT_EVENT_ARG_COUNT": "Conteggio argomenti script:",
   "DEBUG_SCRIPT_EVENT_ARG": "Arg[%d]",
   "DEBUG_SCRIPT_EVENT_EVERYONE": "Invia a tutti",
